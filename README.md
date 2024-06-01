@@ -1,16 +1,13 @@
-## Hi there 👋
+<b> Hi there, I'm Mrack 👋 </b>
+<img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrack&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=false&count_private=true">
 
-<!--
-**Mrack/Mrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Reverse Engineer and Security Developer
+- 💻 C, C++, Java, Go and Python
+- 🌱 Learning Software Security and Linux kernel
+- 📫 How to reach me:
+    - Email: mrack@qq.com
+    - Weixin: ByteCodes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Life is a wilderness, not a track.
+```
