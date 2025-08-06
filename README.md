@@ -6,7 +6,6 @@
 - 🌱 Learning Software Security and Linux kernel
 - 📫 How to reach me:
     - Email: mrack@qq.com
-    - Weixin: ByteCodes
 
 ```
 Life is a wilderness, not a track.
